@@ -1,0 +1,171 @@
+﻿{
+  "Caption": "Reference",
+  "Groups": [
+    {
+      "Image": "img/firmadat.png",
+      "ImageAlt": "FIRMADAT",
+      "RowsLabel": "Firmadat s.r.o.",
+      "Rows": [
+        "Dlouhodobá spolupráce na řadě projektů, převážně na platformě .NET a MS SQL Server",
+        "Analýza a návrh řešení na míru pro zákazníky",
+        "Customizace ekonomického systému Pohoda, externí moduly, modifikace na úrovni databáze, API, tiskové sestavy",
+        "Vývoj interního frameworku pro aplikace na platformě .NET Core",
+        "Historicky vývoj komponent pro open source systém Joomla, propojení Pohoda a Virtuemart a jiné v prostředí PHP"
+      ],
+      "Link": "https://www.firmadat.cz/",
+      "LinkLabel": "Firmadat.cz",
+      "LinkPrefix": "Web"
+    },
+    {
+      "Image": "img/ateosys.png",
+      "ImageAlt": "ATEOSYS",
+      "RowsLabel": "Ateosys",
+      "Rows": [
+        "Kompletní vývoj s pravidelnými aktualizacemi nadstavbové aplikace nad ekonomickým systémem Pohoda",
+        "Technologie ASP.NET Web Forms a MS SQL Server",
+        "Optimalizováno pro ruční online terminály na platformě Android",
+        "Dvě desítky modulů pro zjednodušení a zrychlení práce",
+        "Návrh řešení na míru cílovým zákazníkům",
+        "Instalátor pro snadné aktualizace a administraci instalace",
+        "Administrační aplikace pro sledování aktivních instalací"
+      ],
+      "Link": "https://www.ateosys.cz/",
+      "LinkLabel": "Ateosys.cz",
+      "LinkPrefix": "Web"
+    },
+    {
+      "Image": "img/toricar.png",
+      "ImageAlt": "TORICAR",
+      "RowsLabel": "Autoservis Toricar",
+      "Rows": [
+        "Webová prezentace autoservisu Toricar",
+        "Technologie .NET Razor pages, Bootstrap, jQuery",
+        "Správa profilů na vyhledávacích platformách"
+      ],
+      "Link": "https://www.toricar.cz/",
+      "LinkLabel": "Toricar.cz",
+      "LinkPrefix": "Web"
+    },
+    {
+      "Image": "img/ovocentrum.png",
+      "ImageAlt": "OVOCENTRUM",
+      "RowsLabel": "Ovocentrum V+V s.r.o.",
+      "Rows": [
+        "Vývoj a údržba interního systému postaveného na ekonomickém systému Pohoda",
+        "Řada externích modulů pro zjednodušení práce uživatelů",
+        "Terminálová aplikace na platformě .NET pro ruční online terminály",
+        "Kompletní návrh a vývoj řešení pro administraci projektů Ovoce do škol a Mléko do škol",
+        "Eshop pro velkoobchodní odběratele, konzultace vývoje na platformě Joomla/Virtuemart, API pro přístup eshopu k datům"
+      ],
+      "Link": "https://www.ovocentrum.cz/",
+      "LinkLabel": "Ovocentrum.cz",
+      "LinkPrefix": "Web"
+    },
+    {
+      "Image": "img/levnelyze.png",
+      "ImageAlt": "LEVNELYZE",
+      "RowsLabel": "Gold sport s.r.o.",
+      "Rows": [
+        "Kompletní vývoj a údržba jednotného backendu pro eshopy levnelyze.cz, eski.sk, topnarty.pl, skiandbikes.com a další",
+        "Skladovací a fakturační systém s rozdělením na dvě samostatné firmy",
+        "Systém pro napojení na více než 60 dodavatelských feedů",
+        "Komplexní slevový systém, systém přidělování skipasů",
+        "Napojení na API dopravců jako DPD, DHL, Fedex a další",
+        "Technologie ASP.NET Web Forms, webové služby jako API pro frontendy, MS SQL Server"
+      ],
+      "Link": "https://www.levnelyze.cz/",
+      "LinkLabel": "Levnelyze.cz",
+      "LinkPrefix": "Web"
+    },
+    {
+      "Image": "img/algeco.png",
+      "ImageAlt": "ALGECO",
+      "RowsLabel": "Algeco s.r.o.",
+      "Rows": [
+        "Vývoj a údržba interního výrobního a skladovacího systému",
+        "Analýza požadavků a návrh řešení dle požadavků, napojení na systémy dalších dodavatelů",
+        "Řešení v prostředí Delphi 7 a MS SQL Server",
+        "Terminálová aplikace na platformě .NET pro ruční terminály"
+      ],
+      "Link": "https://www.algeco.cz/",
+      "LinkLabel": "Algeco.cz",
+      "LinkPrefix": "Web"
+    },
+    {
+      "Image": "img/slovackapekarna.png",
+      "ImageAlt": "SLOVACKAPEKARNA",
+      "RowsLabel": "Slovácká pekárna s.r.o. a další",
+      "Rows": [
+        "Externí modul pro IS Pohoda",
+        "Rozšířující funkce pro výrobu, hromadnou expedici, fakturaci a import objednávek od odběratelů",
+        "Aplikační rozhraní pro Eshop",
+        "Řešení na platformě .NET WPF jako nadstavba ekonomického systému Pohoda"
+      ],
+      "Link": "https://www.slovackapekarna.cz/",
+      "LinkLabel": "Slovackapekarna.cz",
+      "LinkPrefix": "Web"
+    },
+    {
+      "Image": "img/4soft.png",
+      "ImageAlt": "4SOFT",
+      "RowsLabel": "4soft s.r.o.",
+      "Rows": [
+        "Návrh a vývoj propojení mezi systémy Pohoda a Raynet",
+        "Podpůrné funkce pro práci s Pohodou",
+        "Technologie .NET WPF, REST API"
+      ],
+      "Link": "https://4soft.cz/",
+      "LinkLabel": "4soft.cz",
+      "LinkPrefix": "Web"
+    },
+    {
+      "Image": "img/aedline.png",
+      "ImageAlt": "AEDLINE",
+      "RowsLabel": "AED Line CZ s.r.o.",
+      "Rows": [
+        "Vývoj tréningové aplikace pro obsluhu automatického defibrilátoru",
+        "Realizace v technologiích .NET MAUI a Blazor"
+      ],
+      "Link": "https://training-app.aedline.cz/",
+      "LinkLabel": "Training-app.aedline.cz",
+      "LinkPrefix": "Web"
+    },
+    {
+      "Image": "img/airsoftpro.png",
+      "ImageAlt": "AIRSOFTPRO",
+      "RowsLabel": "AirsoftPro",
+      "Rows": [
+        "Aplikační rozhraní pro komunikaci e-shopu s IS pohoda",
+        "Technologie .NET Minimal API"
+      ],
+      "Link": "https://airsoftpro.cz/",
+      "LinkLabel": "Airsoftpro.cz",
+      "LinkPrefix": "Web"
+    },
+    {
+      "Image": "img/jidelna.png",
+      "ImageAlt": "JIDELNA",
+      "RowsLabel": "Quickdeli.cz, Žatecké lahůdky s.r.o. a další",
+      "Rows": [
+        "Obecný systém pro jídelny a bufety",
+        "Objednávky jídel, administrace rozvozu",
+        "Napojení na IS Pohoda",
+        "Technologie ASP.NET Web Forms, MS SQL Server"
+      ],
+      "Link": "https://www.firmadat.cz/",
+      "LinkLabel": "Firmadat.cz",
+      "LinkPrefix": "Web"
+    },
+    {
+      "Image": "img/dezadata.png",
+      "ImageAlt": "DEZADATA",
+      "RowsLabel": "Dezadata s.r.o.",
+      "Rows": [
+        "Práce na projektech pro firmy Homecredit (Brno), Logos (Praha), Komerční banka (Praha) a Gedas (Mladá Boleslav)"
+      ],
+      "Link": "https://dezadata.cz/",
+      "LinkLabel": "Dezadata.cz",
+      "LinkPrefix": "Web"
+    }
+  ]
+}

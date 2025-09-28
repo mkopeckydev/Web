@@ -1,0 +1,11 @@
+﻿@page "/"
+@page "/home"
+@using Kopec.Web.Data
+@using Kopec.Web.Model
+
+@rendermode InteractiveServer
+
+<PageTitle>@DataFacade.WebTitle("Vývoj aplikací")</PageTitle>
+
+<IconList data=@listData />
+

@@ -1,0 +1,41 @@
+﻿{
+  "Caption": "Aplikace",
+  "Groups": [
+    {
+      "Image": "img/aedline.png",
+      "ImageAlt": "AED",
+      "RowsLabel": "Defibrilátor Lifeline AED",
+      "Rows": [
+        "Tréninková aplikace pro ukázku použití automatizovaného externí defibrilátoru Lifeline AED.",
+        "Technologie .NET MAUI"
+      ],
+      "Link": "https://play.google.com/store/apps/details?id=com.kopec.aeddefib&hl=cs",
+      "LinkLabel": "Google play",
+      "LinkPrefix": "Android"
+    },
+    {
+      "Image": "img/shadows.png",
+      "ImageAlt": "SHADOWS",
+      "RowsLabel": "Stíny nad pevninou",
+      "Rows": [
+        "Podpůrná aplikace pro RPG hru",
+        "Technologie .NET MAUI"
+      ],
+      "Link": "https://play.google.com/store/apps/details?id=com.kopec.shadows.client&hl=cs",
+      "LinkLabel": "Google play",
+      "LinkPrefix": "Android"
+    },
+    {
+      "Image": "img/cryptomonitor.png",
+      "ImageAlt": "CRYPTOMONITOR",
+      "RowsLabel": "Crypto monitor",
+      "Rows": [
+        "Mini aplikace pro rychlý náhled cen kryptoměn",
+        "Technologie .NET WPF"
+      ],
+      "Link": "https://github.com/mkopeckydev/CryptoMonitor",
+      "LinkLabel": "GitHub",
+      "LinkPrefix": "Kód"
+    }
+  ]
+}

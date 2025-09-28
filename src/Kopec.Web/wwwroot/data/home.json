@@ -1,0 +1,49 @@
+﻿{
+  "Caption": "Vývoj aplikací",
+  "Groups": [
+    {
+      "Image": "img/net.png",
+      "ImageAlt": "NET",
+      "RowsLabel": "",
+      "Rows": [
+        "Fullstack vývoj aplikací na platformě .NET",
+        "Analýza a návrh řešení na míru dle požadavků zákazníka",
+        "Desktopové aplikace .NET WPF, WinForms",
+        "Webové aplikace Blazor, ASP.NET WebForms",
+        "Aplikace .NET MAUI pro platformu Android",
+        "Aplikační rozhraní Minimal API, Web Services"
+      ],
+      "Link": "",
+      "LinkLabel": "",
+      "LinkPrefix": "Web"
+    },
+    {
+      "Image": "img/sql.png",
+      "ImageAlt": "SQL",
+      "RowsLabel": "",
+      "Rows": [
+        "Návrh relačních databází, zaměření na MS SQL server",
+        "SQL, Transact-SQL",
+        "Optimalizace dotazů a struktury databáze",
+        "Mapovací framework nHibernate"
+      ],
+      "Link": "",
+      "LinkLabel": "",
+      "LinkPrefix": "Web"
+    },
+    {
+      "Image": "img/pohoda.png",
+      "ImageAlt": "POHODA",
+      "RowsLabel": "",
+      "Rows": [
+        "Customizace ekonomického systému Pohoda",
+        "Uživatelské agendy a externí moduly na míru, XML komunikace",
+        "Modifikace funkcionality na úrovní databáze",
+        "Složité tiskové sestavy s úpravou datového souboru"
+      ],
+      "Link": "",
+      "LinkLabel": "",
+      "LinkPrefix": "Web"
+    }
+  ]
+}

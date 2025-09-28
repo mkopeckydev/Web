@@ -1,0 +1,57 @@
+﻿@page "/contact"
+@using Kopec.Web.Data
+@using Kopec.Web.Model
+
+@inject DataFacade DataFacade
+
+<PageTitle>@DataFacade.WebTitle("Kontakt")</PageTitle>
+
+<div class="text-start">
+    <h1 class="display-6 mb-4 ms-2">Kontakt</h1>
+
+    <div class="container text-start">
+
+        <div class="row justify-content-start mb-3">
+
+            <div class="col-2">
+            </div>
+            <div class="col-10 fs-6">
+                <div class="d-flex justify-content-start align-items-start pb-1">
+                    <div>
+                        <img src="img/icons/person.svg" alt="*" class="contact-icon me-2" />
+                    </div>
+                    <div>
+                        Ing. Michal Kopecký<br />
+                        IČ: 74716352
+                    </div>
+                </div>
+                <div class="d-flex justify-content-start align-items-start pb-1">
+                    <div>
+                        <img src="img/icons/envelope.svg" alt="*" class="contact-icon me-2" />
+                    </div>
+                    <div>
+                        <span>mkopecky&#46;dev</span>&#64;<span>email&#46;cz</span>
+                    </div>
+                </div>
+                <div class="d-flex justify-content-start align-items-start pb-1">
+                    <div>
+                        <img src="img/icons/geo-alt.svg" alt="*" class="contact-icon me-2" />
+                    </div>
+                    <div>
+                        Zašovská 724<br />
+                        Valašské Meziříčí<br />
+                        757 01
+                    </div>
+                </div>
+                <div class="d-flex justify-content-start align-items-start pb-1 mt-2">
+                    <a href="https://github.com/mkopeckydev/" title="Profil na github.com" target="_blank"><img src="img/icons/github.svg" alt="GH" class="contact-icon me-2" /></a>
+                    <a href="https://www.linkedin.com/in/kopecz/" title="Profil na linkedin.com" target="_blank"><img src="img/icons/linkedin.svg" alt="LI" class="contact-icon me-2" /></a>
+                    <a href="https://www.instagram.com/kopec_valmez" title="Profil na instagram.com" target="_blank"><img src="img/icons/instagram.svg" alt="IG" class="contact-icon me-2" /></a>
+                    <a href="https://www.strava.com/athletes/kopecz" title="Profil na strava.com" target="_blank"><img src="img/icons/strava.svg" alt="ST" class="contact-icon me-2" /></a>
+                    <a href="https://www.facebook.com/kopeCZ" title="Profil na facebook.com" target="_blank"><img src="img/icons/facebook.svg" alt="FB" class="contact-icon me-2" /></a>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
