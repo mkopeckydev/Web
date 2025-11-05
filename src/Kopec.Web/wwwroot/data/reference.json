@@ -111,7 +111,7 @@
       "RowsLabel": "4soft s.r.o.",
       "Rows": [
         "Návrh a vývoj propojení mezi systémy Pohoda a Raynet",
-        "Podpůrné funkce pro práci s Pohodou",
+        "API pro přístup externích systému k datům IS Pohoda",
         "Technologie .NET WPF, REST API"
       ],
       "Link": "https://4soft.cz/",
@@ -154,6 +154,32 @@
       ],
       "Link": "https://www.firmadat.cz/",
       "LinkLabel": "Firmadat.cz",
+      "LinkPrefix": "Web"
+    },
+    {
+      "Image": "img/mcompanies.png",
+      "ImageAlt": "MCOMPANIES",
+      "RowsLabel": "Mcompanies.cz",
+      "Rows": [
+        "Reportovací nástroj nad IS Pohoda",
+        "Export přehledů do excelu a pdf (objednávky, zásoby, štítky)",
+        "Technologie .NET WPF"
+      ],
+      "Link": "https://www.mcompanies.cz/",
+      "LinkLabel": "Mcompanies.cz",
+      "LinkPrefix": "Web"
+    },
+    {
+      "Image": "img/agservice.png",
+      "ImageAlt": "AGSERVICE",
+      "RowsLabel": "A.G. Service s.r.o.",
+      "Rows": [
+        "Modul pro sledování pronájmu skladovacích prostor a fakturaci",
+        "Řešení jako nadstavba nad uživatelskou agendou v IS Pohoda",
+        "Technologie .NET WPF"
+      ],
+      "Link": "https://www.agservice.cz/",
+      "LinkLabel": "Agservice.cz",
       "LinkPrefix": "Web"
     },
     {
