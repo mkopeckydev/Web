@@ -1,6 +1,6 @@
 ﻿{
   "Caption": "Vývoj aplikací",
-  "Groups": [
+  "Items": [
     {
       "Image": "img/net.png",
       "ImageAlt": "NET",
@@ -12,10 +12,7 @@
         "Webové aplikace Blazor, ASP.NET WebForms",
         "Aplikace .NET MAUI pro platformu Android",
         "Aplikační rozhraní Minimal API, Web Services"
-      ],
-      "Link": "",
-      "LinkLabel": "",
-      "LinkPrefix": "Web"
+      ]
     },
     {
       "Image": "img/sql.png",
@@ -26,10 +23,7 @@
         "SQL, Transact-SQL",
         "Optimalizace dotazů a struktury databáze",
         "Mapovací framework nHibernate"
-      ],
-      "Link": "",
-      "LinkLabel": "",
-      "LinkPrefix": "Web"
+      ]
     },
     {
       "Image": "img/pohoda.png",
@@ -40,10 +34,7 @@
         "Uživatelské agendy a externí moduly na míru, XML komunikace",
         "Modifikace funkcionality na úrovní databáze",
         "Složité tiskové sestavy s úpravou datového souboru"
-      ],
-      "Link": "",
-      "LinkLabel": "",
-      "LinkPrefix": "Web"
+      ]
     }
   ]
 }

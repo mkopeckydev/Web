@@ -1,6 +1,6 @@
 ﻿{
   "Caption": "Aplikace",
-  "Groups": [
+  "Items": [
     {
       "Image": "img/aedline.png",
       "ImageAlt": "AED",
@@ -23,7 +23,10 @@
       ],
       "Link": "https://play.google.com/store/apps/details?id=com.kopec.shadows.client&hl=cs",
       "LinkLabel": "Google play",
-      "LinkPrefix": "Android"
+      "LinkPrefix": "Android",
+      "Link2": "https://mkopecky.dev/drd/Login.aspx",
+      "Link2Label": "mkopecky.dev/drd",
+      "Link2Prefix": "Web"
     },
     {
       "Image": "img/cryptomonitor.png",

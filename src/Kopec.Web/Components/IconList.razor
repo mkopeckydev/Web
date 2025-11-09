@@ -10,7 +10,7 @@
 
     <div class="container text-start">
 
-        @foreach (var group in data.Groups)
+        @foreach (var group in data.Items)
         {
             <div class="row justify-content-start mb-3">
 
@@ -30,6 +30,10 @@
                         @if (group.HasLink)
                         {
                             <li>@group.LinkPrefix: <a class="link-secondary link-offset-2" href=@group.Link target="_blank">@group.LinkLabel</a></li>
+                        }
+                        @if (group.HasLink2)
+                        {
+                            <li>@group.Link2Prefix: <a class="link-secondary link-offset-2" href=@group.Link2 target="_blank">@group.Link2Label</a></li>
                         }
                     </ul>
                 </div>

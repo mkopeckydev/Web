@@ -3,7 +3,7 @@
     public class IconListData
     {
         public string Caption { get; set; } = String.Empty;
-        public List<IconListGroup> Groups { get; set; } = new List<IconListGroup>();
+        public List<IconListItem> Items { get; set; } = new List<IconListItem>();
         
     }
 }

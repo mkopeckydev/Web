@@ -1,6 +1,6 @@
 ﻿{
   "Caption": "Reference",
-  "Groups": [
+  "Items": [
     {
       "Image": "img/firmadat.png",
       "ImageAlt": "FIRMADAT",
@@ -13,7 +13,7 @@
         "Historicky vývoj komponent pro open source systém Joomla, propojení Pohoda a Virtuemart a jiné v prostředí PHP"
       ],
       "Link": "https://www.firmadat.cz/",
-      "LinkLabel": "Firmadat.cz",
+      "LinkLabel": "firmadat.cz",
       "LinkPrefix": "Web"
     },
     {
@@ -30,7 +30,7 @@
         "Administrační aplikace pro sledování aktivních instalací"
       ],
       "Link": "https://www.ateosys.cz/",
-      "LinkLabel": "Ateosys.cz",
+      "LinkLabel": "ateosys.cz",
       "LinkPrefix": "Web"
     },
     {
@@ -43,7 +43,7 @@
         "Správa profilů na vyhledávacích platformách"
       ],
       "Link": "https://www.toricar.cz/",
-      "LinkLabel": "Toricar.cz",
+      "LinkLabel": "toricar.cz",
       "LinkPrefix": "Web"
     },
     {
@@ -58,7 +58,7 @@
         "Eshop pro velkoobchodní odběratele, konzultace vývoje na platformě Joomla/Virtuemart, API pro přístup eshopu k datům"
       ],
       "Link": "https://www.ovocentrum.cz/",
-      "LinkLabel": "Ovocentrum.cz",
+      "LinkLabel": "ovocentrum.cz",
       "LinkPrefix": "Web"
     },
     {
@@ -74,7 +74,7 @@
         "Technologie ASP.NET Web Forms, webové služby jako API pro frontendy, MS SQL Server"
       ],
       "Link": "https://www.levnelyze.cz/",
-      "LinkLabel": "Levnelyze.cz",
+      "LinkLabel": "levnelyze.cz",
       "LinkPrefix": "Web"
     },
     {
@@ -88,7 +88,7 @@
         "Terminálová aplikace na platformě .NET pro ruční terminály"
       ],
       "Link": "https://www.algeco.cz/",
-      "LinkLabel": "Algeco.cz",
+      "LinkLabel": "algeco.cz",
       "LinkPrefix": "Web"
     },
     {
@@ -102,7 +102,7 @@
         "Řešení na platformě .NET WPF jako nadstavba ekonomického systému Pohoda"
       ],
       "Link": "https://www.slovackapekarna.cz/",
-      "LinkLabel": "Slovackapekarna.cz",
+      "LinkLabel": "slovackapekarna.cz",
       "LinkPrefix": "Web"
     },
     {
@@ -127,7 +127,7 @@
         "Realizace v technologiích .NET MAUI a Blazor"
       ],
       "Link": "https://training-app.aedline.cz/",
-      "LinkLabel": "Training-app.aedline.cz",
+      "LinkLabel": "training-app.aedline.cz",
       "LinkPrefix": "Web"
     },
     {
@@ -139,7 +139,7 @@
         "Technologie .NET Minimal API"
       ],
       "Link": "https://airsoftpro.cz/",
-      "LinkLabel": "Airsoftpro.cz",
+      "LinkLabel": "airsoftpro.cz",
       "LinkPrefix": "Web"
     },
     {
@@ -153,7 +153,7 @@
         "Technologie ASP.NET Web Forms, MS SQL Server"
       ],
       "Link": "https://www.firmadat.cz/",
-      "LinkLabel": "Firmadat.cz",
+      "LinkLabel": "firmadat.cz",
       "LinkPrefix": "Web"
     },
     {
@@ -166,7 +166,7 @@
         "Technologie .NET WPF"
       ],
       "Link": "https://www.mcompanies.cz/",
-      "LinkLabel": "Mcompanies.cz",
+      "LinkLabel": "mcompanies.cz",
       "LinkPrefix": "Web"
     },
     {
@@ -179,7 +179,7 @@
         "Technologie .NET WPF"
       ],
       "Link": "https://www.agservice.cz/",
-      "LinkLabel": "Agservice.cz",
+      "LinkLabel": "agservice.cz",
       "LinkPrefix": "Web"
     },
     {
@@ -190,7 +190,7 @@
         "Práce na projektech pro firmy Homecredit (Brno), Logos (Praha), Komerční banka (Praha) a Gedas (Mladá Boleslav)"
       ],
       "Link": "https://dezadata.cz/",
-      "LinkLabel": "Dezadata.cz",
+      "LinkLabel": "dezadata.cz",
       "LinkPrefix": "Web"
     }
   ]
