@@ -12,9 +12,13 @@
         "Vývoj interního frameworku pro aplikace na platformě .NET Core",
         "Historicky vývoj komponent pro open source systém Joomla, propojení Pohoda a Virtuemart a jiné v prostředí PHP"
       ],
-      "Link": "https://www.firmadat.cz/",
-      "LinkLabel": "firmadat.cz",
-      "LinkPrefix": "Web"
+      "Links": [
+        {
+          "Url": "https://www.firmadat.cz/",
+          "UrlLabel": "firmadat.cz",
+          "Label": "Web"
+        }
+      ]
     },
     {
       "Image": "img/ateosys.png",
@@ -29,9 +33,13 @@
         "Instalátor pro snadné aktualizace a administraci instalace",
         "Administrační aplikace pro sledování aktivních instalací"
       ],
-      "Link": "https://www.ateosys.cz/",
-      "LinkLabel": "ateosys.cz",
-      "LinkPrefix": "Web"
+      "Links": [
+        {
+          "Url": "https://www.ateosys.cz/",
+          "UrlLabel": "ateosys.cz",
+          "Label": "Web"
+        }
+      ]
     },
     {
       "Image": "img/toricar.png",
@@ -42,9 +50,13 @@
         "Technologie .NET Razor pages, Bootstrap, jQuery",
         "Správa profilů na vyhledávacích platformách"
       ],
-      "Link": "https://www.toricar.cz/",
-      "LinkLabel": "toricar.cz",
-      "LinkPrefix": "Web"
+      "Links": [
+        {
+          "Url": "https://www.toricar.cz/",
+          "UrlLabel": "toricar.cz",
+          "Label": "Web"
+        }
+      ]
     },
     {
       "Image": "img/ovocentrum.png",
@@ -57,9 +69,13 @@
         "Kompletní návrh a vývoj řešení pro administraci projektů Ovoce do škol a Mléko do škol",
         "Eshop pro velkoobchodní odběratele, konzultace vývoje na platformě Joomla/Virtuemart, API pro přístup eshopu k datům"
       ],
-      "Link": "https://www.ovocentrum.cz/",
-      "LinkLabel": "ovocentrum.cz",
-      "LinkPrefix": "Web"
+      "Links": [
+        {
+          "Url": "https://www.ovocentrum.cz/",
+          "UrlLabel": "ovocentrum.cz",
+          "Label": "Web"
+        }
+      ]
     },
     {
       "Image": "img/levnelyze.png",
@@ -73,9 +89,13 @@
         "Napojení na API dopravců jako DPD, DHL, Fedex a další",
         "Technologie ASP.NET Web Forms, webové služby jako API pro frontendy, MS SQL Server"
       ],
-      "Link": "https://www.levnelyze.cz/",
-      "LinkLabel": "levnelyze.cz",
-      "LinkPrefix": "Web"
+      "Links": [
+        {
+          "Url": "https://www.levnelyze.cz/",
+          "UrlLabel": "levnelyze.cz",
+          "Label": "Web"
+        }
+      ]
     },
     {
       "Image": "img/algeco.png",
@@ -87,9 +107,13 @@
         "Řešení v prostředí Delphi 7 a MS SQL Server",
         "Terminálová aplikace na platformě .NET pro ruční terminály"
       ],
-      "Link": "https://www.algeco.cz/",
-      "LinkLabel": "algeco.cz",
-      "LinkPrefix": "Web"
+      "Links": [
+        {
+          "Url": "https://www.algeco.cz/",
+          "UrlLabel": "algeco.cz",
+          "Label": "Web"
+        }
+      ]
     },
     {
       "Image": "img/slovackapekarna.png",
@@ -101,9 +125,13 @@
         "Aplikační rozhraní pro Eshop",
         "Řešení na platformě .NET WPF jako nadstavba ekonomického systému Pohoda"
       ],
-      "Link": "https://www.slovackapekarna.cz/",
-      "LinkLabel": "slovackapekarna.cz",
-      "LinkPrefix": "Web"
+      "Links": [
+        {
+          "Url": "https://www.slovackapekarna.cz/",
+          "UrlLabel": "slovackapekarna.cz",
+          "Label": "Web"
+        }
+      ]
     },
     {
       "Image": "img/4soft.png",
@@ -114,9 +142,13 @@
         "API pro přístup externích systému k datům IS Pohoda",
         "Technologie .NET WPF, REST API"
       ],
-      "Link": "https://4soft.cz/",
-      "LinkLabel": "4soft.cz",
-      "LinkPrefix": "Web"
+      "Links": [
+        {
+          "Url": "https://4soft.cz/",
+          "UrlLabel": "4soft.cz",
+          "Label": "Web"
+        }
+      ]
     },
     {
       "Image": "img/aedline.png",
@@ -126,9 +158,18 @@
         "Vývoj tréningové aplikace pro obsluhu automatického defibrilátoru",
         "Realizace v technologiích .NET MAUI a Blazor"
       ],
-      "Link": "https://training-app.aedline.cz/",
-      "LinkLabel": "training-app.aedline.cz",
-      "LinkPrefix": "Web"
+      "Links": [
+        {
+          "Url": "https://aedline.cz/",
+          "UrlLabel": "aedline.cz",
+          "Label": "Web"
+        },
+        {
+          "Url": "https://mkopecky.dev/aed",
+          "UrlLabel": "mkopecky.dev/aed",
+          "Label": "Aplikace"
+        }
+      ]
     },
     {
       "Image": "img/airsoftpro.png",
@@ -138,9 +179,13 @@
         "Aplikační rozhraní pro komunikaci e-shopu s IS pohoda",
         "Technologie .NET Minimal API"
       ],
-      "Link": "https://airsoftpro.cz/",
-      "LinkLabel": "airsoftpro.cz",
-      "LinkPrefix": "Web"
+      "Links": [
+        {
+          "Url": "https://airsoftpro.cz/",
+          "UrlLabel": "airsoftpro.cz",
+          "Label": "Web"
+        }
+      ]
     },
     {
       "Image": "img/jidelna.png",
@@ -152,9 +197,13 @@
         "Napojení na IS Pohoda",
         "Technologie ASP.NET Web Forms, MS SQL Server"
       ],
-      "Link": "https://www.firmadat.cz/",
-      "LinkLabel": "firmadat.cz",
-      "LinkPrefix": "Web"
+      "Links": [
+        {
+          "Url": "https://www.upes.cz/",
+          "UrlLabel": "upes.cz",
+          "Label": "Web"
+        }
+      ]
     },
     {
       "Image": "img/mcompanies.png",
@@ -165,9 +214,13 @@
         "Export přehledů do excelu a pdf (objednávky, zásoby, štítky)",
         "Technologie .NET WPF"
       ],
-      "Link": "https://www.mcompanies.cz/",
-      "LinkLabel": "mcompanies.cz",
-      "LinkPrefix": "Web"
+      "Links": [
+        {
+          "Url": "https://www.mcompanies.cz/",
+          "UrlLabel": "mcompanies.cz",
+          "Label": "Web"
+        }
+      ]
     },
     {
       "Image": "img/agservice.png",
@@ -178,9 +231,13 @@
         "Řešení jako nadstavba nad uživatelskou agendou v IS Pohoda",
         "Technologie .NET WPF"
       ],
-      "Link": "https://www.agservice.cz/",
-      "LinkLabel": "agservice.cz",
-      "LinkPrefix": "Web"
+      "Links": [
+        {
+          "Url": "https://www.agservice.cz/",
+          "UrlLabel": "agservice.cz",
+          "Label": "Web"
+        }
+      ]
     },
     {
       "Image": "img/dezadata.png",
@@ -189,9 +246,13 @@
       "Rows": [
         "Práce na projektech pro firmy Homecredit (Brno), Logos (Praha), Komerční banka (Praha) a Gedas (Mladá Boleslav)"
       ],
-      "Link": "https://dezadata.cz/",
-      "LinkLabel": "dezadata.cz",
-      "LinkPrefix": "Web"
+      "Links": [
+        {
+          "Url": "https://dezadata.cz/",
+          "UrlLabel": "dezadata.cz",
+          "Label": "Web"
+        }
+      ]
     }
   ]
 }

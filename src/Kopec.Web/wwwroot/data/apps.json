@@ -9,24 +9,34 @@
         "Tréninková aplikace pro ukázku použití automatizovaného externí defibrilátoru Lifeline AED.",
         "Technologie .NET MAUI"
       ],
-      "Link": "https://play.google.com/store/apps/details?id=com.kopec.aeddefib&hl=cs",
-      "LinkLabel": "Google play",
-      "LinkPrefix": "Android"
+      "Links": [
+        {
+          "Url": "https://play.google.com/store/apps/details?id=com.kopec.aeddefib&hl=cs",
+          "UrlLabel": "Google play",
+          "Label": "Android"
+        }
+      ]
     },
     {
       "Image": "img/shadows.png",
       "ImageAlt": "SHADOWS",
       "RowsLabel": "Stíny nad pevninou",
       "Rows": [
-        "Podpůrná aplikace pro RPG hru",
+        "Podpůrná aplikace pro stolní RPG hru",
         "Technologie .NET MAUI"
       ],
-      "Link": "https://play.google.com/store/apps/details?id=com.kopec.shadows.client&hl=cs",
-      "LinkLabel": "Google play",
-      "LinkPrefix": "Android",
-      "Link2": "https://mkopecky.dev/drd/Login.aspx",
-      "Link2Label": "mkopecky.dev/drd",
-      "Link2Prefix": "Web"
+      "Links": [
+        {
+          "Url": "https://play.google.com/store/apps/details?id=com.kopec.shadows.client&hl=cs",
+          "UrlLabel": "Google play",
+          "Label": "Android"
+        },
+        {
+          "Url": "https://mkopecky.dev/drd/Login.aspx",
+          "UrlLabel": "mkopecky.dev/drd",
+          "Label": "Web"
+        }
+      ]
     },
     {
       "Image": "img/cryptomonitor.png",
@@ -36,9 +46,13 @@
         "Mini aplikace pro rychlý náhled cen kryptoměn",
         "Technologie .NET WPF"
       ],
-      "Link": "https://github.com/mkopeckydev/CryptoMonitor",
-      "LinkLabel": "GitHub",
-      "LinkPrefix": "Kód"
+      "Links": [
+        {
+          "Url": "https://github.com/mkopeckydev/CryptoMonitor",
+          "UrlLabel": "GitHub",
+          "Label": "Kód"
+        }
+      ]
     }
   ]
 }
