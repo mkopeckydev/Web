@@ -32,9 +32,19 @@
           "Label": "Android"
         },
         {
+          "Url": "https://github.com/mkopeckydev/ShadowsClient",
+          "UrlLabel": "GitHub",
+          "Label": "Android code"
+        },
+        {
           "Url": "https://mkopecky.dev/drd/Login.aspx",
           "UrlLabel": "mkopecky.dev/drd",
           "Label": "Web"
+        },
+        {
+          "Url": "https://github.com/mkopeckydev/ShadowsWeb",
+          "UrlLabel": "GitHub",
+          "Label": "Web code"
         }
       ]
     },
@@ -50,7 +60,7 @@
         {
           "Url": "https://github.com/mkopeckydev/CryptoMonitor",
           "UrlLabel": "GitHub",
-          "Label": "Kód"
+          "Label": "Code"
         }
       ]
     }

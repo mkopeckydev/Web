@@ -10,7 +10,7 @@
         "Analýza a návrh řešení na míru pro zákazníky",
         "Customizace ekonomického systému Pohoda, externí moduly, modifikace na úrovni databáze, API, tiskové sestavy",
         "Vývoj interního frameworku pro aplikace na platformě .NET Core",
-        "Historicky vývoj komponent pro open source systém Joomla, propojení Pohoda a Virtuemart a jiné v prostředí PHP"
+        "Historicky vývoj komponent pro open source systém Joomla, propojení Pohoda a Virtuemart a jiné v prostředí PHP + MySQL"
       ],
       "Links": [
         {
@@ -46,7 +46,7 @@
       "ImageAlt": "TORICAR",
       "RowsLabel": "Autoservis Toricar",
       "Rows": [
-        "Webová prezentace autoservisu Toricar",
+        "Webová prezentace špičkového autoservisu ve Valašském Meziříčí",
         "Technologie .NET Razor pages, Bootstrap, jQuery",
         "Správa profilů na vyhledávacích platformách"
       ],
@@ -98,32 +98,14 @@
       ]
     },
     {
-      "Image": "img/algeco.png",
-      "ImageAlt": "ALGECO",
-      "RowsLabel": "Algeco s.r.o.",
-      "Rows": [
-        "Vývoj a údržba interního výrobního a skladovacího systému",
-        "Analýza požadavků a návrh řešení dle požadavků, napojení na systémy dalších dodavatelů",
-        "Řešení v prostředí Delphi 7 a MS SQL Server",
-        "Terminálová aplikace na platformě .NET pro ruční terminály"
-      ],
-      "Links": [
-        {
-          "Url": "https://www.algeco.cz/",
-          "UrlLabel": "algeco.cz",
-          "Label": "Web"
-        }
-      ]
-    },
-    {
       "Image": "img/slovackapekarna.png",
       "ImageAlt": "SLOVACKAPEKARNA",
       "RowsLabel": "Slovácká pekárna s.r.o., Hanácká pekárna s.r.o.",
       "Rows": [
-        "Externí modul pro IS Pohoda",
+        "Externí modul pro IS Pohoda, multisite řešení pro řízení více závodů v jedné účetní jednotce",
         "Rozšířující funkce pro výrobu, hromadnou expedici, fakturaci a import objednávek od odběratelů",
-        "Aplikační rozhraní pro Eshop",
-        "Řešení na platformě .NET WPF jako nadstavba ekonomického systému Pohoda"
+        "Klientská aplikace na platformě .NET WPF",
+        "Webové služby pro napojení Eshopu"
       ],
       "Links": [
         {
@@ -235,6 +217,24 @@
         {
           "Url": "https://www.agservice.cz/",
           "UrlLabel": "agservice.cz",
+          "Label": "Web"
+        }
+      ]
+    },
+    {
+      "Image": "img/algeco.png",
+      "ImageAlt": "ALGECO",
+      "RowsLabel": "Algeco s.r.o.",
+      "Rows": [
+        "Vývoj a údržba interního výrobního a skladovacího systému",
+        "Analýza požadavků a návrh řešení dle požadavků, napojení na systémy dalších dodavatelů",
+        "Řešení v prostředí Delphi 7 a MS SQL Server",
+        "Terminálová aplikace na platformě .NET pro ruční terminály"
+      ],
+      "Links": [
+        {
+          "Url": "https://www.algeco.cz/",
+          "UrlLabel": "algeco.cz",
           "Label": "Web"
         }
       ]
