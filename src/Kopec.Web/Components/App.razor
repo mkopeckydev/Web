@@ -7,10 +7,10 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <base href="@(Config.GetValue<string>("AppBasePath"))" />
-
-    <link rel="stylesheet" href="lib/bootstrap/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="css/site.css" />
-    <link rel="stylesheet" href="Kopec.Web.styles.css" />
+    
+    <link rel="stylesheet" href="@Assets["lib/bootstrap/css/bootstrap.min.css"]" />
+    <link rel="stylesheet" href="@Assets["css/site.css"]" />
+    <link rel="stylesheet" href="@Assets["Kopec.Web.styles.css"]" />
 
     <link rel="icon" type="image/x-icon" href="favicon.ico" />
     <meta name="keywords" content="Vývoj software .NET" />
@@ -22,9 +22,8 @@
 
 <body>
     <Routes />
-    <script src="_framework/blazor.web.js"></script>
-    <script src="lib/jquery/jquery-3.7.1.min.js"></script>
-    <script src="lib/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="@Assets["_framework/blazor.web.js"]"></script>
+    <script src="@Assets["lib/bootstrap/js/bootstrap.bundle.min.js"]"></script>
 </body>
 
 </html>
