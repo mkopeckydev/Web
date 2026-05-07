@@ -149,7 +149,12 @@
         {
           "Url": "https://training-app.aedline.cz/",
           "UrlLabel": "training-app.aedline.cz",
-          "Label": "Aplikace"
+          "Label": "Model AED"
+        },
+        {
+          "Url": "https://training-app-view.aedline.cz/",
+          "UrlLabel": "training-app-view.aedline.cz",
+          "Label": "Model VIEW"
         }
       ]
     },
