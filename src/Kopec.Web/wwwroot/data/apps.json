@@ -18,6 +18,22 @@
       ]
     },
     {
+      "Image": "img/aedline.png",
+      "ImageAlt": "AED",
+      "RowsLabel": "Defibrilátor Lifeline VIEW",
+      "Rows": [
+        "Tréninková aplikace pro ukázku použití automatizovaného externí defibrilátoru Lifeline VIEW.",
+        "Technologie .NET MAUI"
+      ],
+      "Links": [
+        {
+          "Url": "https://play.google.com/store/apps/details?id=com.kopec.viewdefib&hl=cs",
+          "UrlLabel": "Google play",
+          "Label": "Android"
+        }
+      ]
+    },
+    {
       "Image": "img/shadows.png",
       "ImageAlt": "SHADOWS",
       "RowsLabel": "Stíny nad pevninou",

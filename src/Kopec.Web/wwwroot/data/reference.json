@@ -121,6 +121,7 @@
       "RowsLabel": "4soft s.r.o.",
       "Rows": [
         "Návrh a vývoj propojení mezi systémy Pohoda a Raynet",
+        "Klientský modul pro zjednodušení práce v IS Pohoda, konfigurátor nabídek",
         "API pro přístup externích systému k datům IS Pohoda",
         "Technologie .NET WPF, REST API"
       ],
@@ -222,6 +223,23 @@
         {
           "Url": "https://www.agservice.cz/",
           "UrlLabel": "agservice.cz",
+          "Label": "Web"
+        }
+      ]
+    },
+    {
+      "Image": "img/detskeboty.png",
+      "ImageAlt": "DETSKE BOTY",
+      "RowsLabel": "Detskeboty.cz",
+      "Rows": [
+        "Propojení na míru mezi systémem Pohoda a eshopem",
+        "Řešení pro navrh a logistiku objednávek mezi Prodejnami",
+        "Technologie .NET WPF, PHP"
+      ],
+      "Links": [
+        {
+          "Url": "https://www.detskeboty.cz/",
+          "UrlLabel": "detskeboty.cz",
           "Label": "Web"
         }
       ]
