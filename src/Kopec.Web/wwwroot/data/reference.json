@@ -232,8 +232,8 @@
       "ImageAlt": "DETSKE BOTY",
       "RowsLabel": "Detskeboty.cz",
       "Rows": [
-        "Propojení na míru mezi systémem Pohoda a eshopem",
-        "Řešení pro navrh a logistiku objednávek mezi Prodejnami",
+        "Custom propojení mezi systémem Pohoda a eshopem, průběžná údržba/rozšiřování",
+        "Řešení pro logistiku objednávek podle typu dopravy mezi prodejnami",
         "Technologie .NET WPF, PHP"
       ],
       "Links": [
